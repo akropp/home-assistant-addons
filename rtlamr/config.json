@@ -3,7 +3,7 @@
   "version": "0.1.24",
   "slug": "rtlamr",
   "description": "RF to MQTT Bridge based on RTL_SDR/RTL_433 for RTL2832U based DVB-T USB tuners",
-  "url": "https://github.com/bvlaicu/home-assistant-addons/tree/master/rtlamr",
+  "url": "https://github.com/akropp/home-assistant-addons/tree/master/rtlamr",
   "panel_icon": "mdi:chart-areaspline",
   "startup": "services",
   "homeassistant": "0.92.0b2",
