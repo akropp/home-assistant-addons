@@ -19,6 +19,7 @@
   "hassio_api": true,
   "auth_api": true,
   "hassio_role": "default",
+  "init": false,
   "homeassistant_api": false,
   "options":
   {
