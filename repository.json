@@ -1,5 +1,5 @@
 {
-  "name": "bvlaicu add-ons for Hassio",
-  "url": "https://github.com/bvlaicu/home-assistant-addons",
+  "name": "copy of bvlaicu add-ons for Hassio",
+  "url": "https://github.com/akropp/home-assistant-addons",
   "maintainer": "bvlaicu"
 }
